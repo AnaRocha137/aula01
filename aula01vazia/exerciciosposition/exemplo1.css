@@ -1,0 +1,22 @@
+* {
+    margin:0;
+    padding:0;
+
+}
+
+.box{
+    width:100px;
+    height:100px;
+
+}
+.box-one{
+    background-color: blue;
+}
+.box-two{
+    background-color: black;
+
+}
+
+.box-tree{
+    background-color: green;
+}

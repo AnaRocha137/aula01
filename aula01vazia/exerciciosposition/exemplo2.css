@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+}
+.box{
+width:100px;
+height:100px;
+.box-one{
+    background-color: blue;
+    position:absolute;
+    opacity 9;
+    top:10px;
+    left:10px;
+}
